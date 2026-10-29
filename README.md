@@ -105,6 +105,8 @@ MBA graduate | Immediate joiner | Open to relocate across India
 
 **Recommendation:** Prioritize these segments to reduce cost per conversion.
 
+📂 [View Project Write-up](./5-bank-marketing-eda/)
+
 ---
 
 ## Core Skills
