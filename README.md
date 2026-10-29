@@ -1,6 +1,6 @@
 # Abhishikth Anipe — Data Analytics Portfolio
 
-**Business Analyst | Data Analytics | Business Operations**
+**Business Analyst | MIS & Reporting Analyst**
 
 📧 mrshikth@gmail.com | 📍 Hyderabad, India | 🔗 [LinkedIn](https://linkedin.com/in/abhishikth-anipe)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Business Analyst and Data Analytics professional with 3+ years of cross-functional operations experience and formal training in Business Analytics & Consulting (upGrad × PwC India, completed September 2026). I bring a mix of analytical tools (SQL, Python, Power BI, Advanced Excel) and real-world business problem-solving applied across construction, agriculture, and investment operations.
+MBA graduate (HR & Marketing, 2026) with a Business Analytics & Consulting certification from upGrad × PwC India (September 2026). I use SQL, Python, Power BI and Advanced Excel to turn data into clear reporting and recommendations, backed by hands-on business operations experience across construction, agriculture and trading businesses.
 
 MBA graduate | Immediate joiner | Open to relocate across India
 
@@ -21,7 +21,8 @@ MBA graduate | Immediate joiner | Open to relocate across India
 | 1 | [SaaS Sales Pipeline Conversion Analysis](#1-saas-sales-pipeline-conversion-analysis) | Excel, BA Frameworks | Business Analysis, Problem Structuring |
 | 2 | [Movies Dataset EDA — Python](#2-movies-dataset-eda--python) | Python, Pandas, Matplotlib | Exploratory Data Analysis |
 | 3 | [RSVP Movies — SQL Data Analysis](#3-rsvp-movies--sql-data-analysis) | MySQL | Advanced SQL, Business Insights |
-| 4 | [Superstore Sales Analysis — Excel](#4-superstore-sales-analysis--excel) | Advanced Excel | Sales Analytics, Dashboards |
+| 4 | [Superstore Sales Analysis — Excel & Power BI](#4-superstore-sales-analysis--excel--power-bi) | Excel, Power BI, DAX | Sales Analytics, Dashboards |
+| 5 | [Bank Marketing Campaign EDA — Python & Power BI](#5-bank-marketing-campaign-eda--python--power-bi) | Python, Pandas, Matplotlib, Power BI | Exploratory Data Analysis, Dashboards |
 
 ---
 
@@ -78,15 +79,31 @@ MBA graduate | Immediate joiner | Open to relocate across India
 
 ---
 
-### 4. Superstore Sales Analysis — Excel
+### 4. Superstore Sales Analysis — Excel & Power BI
 
-**Tools:** Advanced Excel | PivotTables | Charts | Dashboards
+**Tools:** Excel (PivotTables, Charts) | Power BI | DAX
 
-**Dataset:** Superstore retail sales data across regions, categories, and customer segments.
+**Dataset:** Superstore retail sales data (8,399 orders) across regions, categories, and customer segments.
 
-**Work Done:** Sales trend analysis, category and segment performance, regional breakdown, and dashboard creation.
+**Work Done:** Sales trend analysis, category and segment performance, regional breakdown, and KPI dashboard creation.
+
+**Key Findings:** Technology generated about 58% of total profit, while Tables and Bookcases were the main loss-making sub-categories.
 
 📂 [View Project Folder](./4-superstore-sales-excel/)
+
+---
+
+### 5. Bank Marketing Campaign EDA — Python & Power BI
+
+**Tools:** Python | Pandas | Matplotlib | Power BI
+
+**Problem:** Identify which customer segments are most likely to subscribe to a term deposit, to reduce the cost of marketing calls.
+
+**Approach:** Cleaned 44,600+ customer records, explored subscription patterns by contact type, previous campaign outcome and age, and built a Power BI management dashboard and report.
+
+**Key Findings:** Overall subscription rate was 11.5%. Cellular contacts converted at 14.7%, customers with a previously successful campaign at 64%, and customers aged 60+ at 33%.
+
+**Recommendation:** Prioritize these segments to reduce cost per conversion.
 
 ---
 
@@ -101,5 +118,5 @@ MBA graduate | Immediate joiner | Open to relocate across India
 ---
 
 *MBA — Human Resources & Marketing | Adikavi Nannaya University | 2026 | 75%*  
-*B.Sc. Geography | Government Autonomous College, Rajahmundry | 2020 | CGPA: 8.68*  
+*B.Sc. (Computer Science, Geography & Geology) | Government Autonomous College, Rajahmundry | 2020 | CGPA: 8.68*  
 *Professional Certificate — Business Analytics & Consulting | upGrad × PwC India | 2026*
